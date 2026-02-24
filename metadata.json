@@ -1,0 +1,5 @@
+{
+  "name": "Chu Đậu AI - Giải Mã Di Sản Gốm",
+  "description": "Ứng dụng AI nhận diện và giải mã ý nghĩa hoa văn gốm Chu Đậu, cung cấp thông tin lịch sử và văn hóa.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
